@@ -1,0 +1,36 @@
+nav a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: larger;
+  color: blue;
+}
+nav {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+h1 {
+  font-size: 120%;
+}
+.card-img {
+  margin-right: auto;
+  width: 600px;
+  height: 300px;
+}
+
+nav a:hover {
+  background-color: yellow;
+}
+h2 {
+  color: brown;
+}
+.colorfull {
+  color: deeppink;
+  font-size: large;
+}
+.text-body-secondary{
+  font-size: larger;
+}
