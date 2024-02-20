@@ -1,4 +1,5 @@
 import React from "react";
+
 const Middile = () => {
   return (
     <div className="colour">
